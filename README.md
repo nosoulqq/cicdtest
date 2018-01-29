@@ -1,5 +1,4 @@
-
-简单的Demo环境：
+1.简单的Demo环境：
     3个文件：
     jenkinsfile: jenkins;
     dockerfile: 做docker iamge;
@@ -8,7 +7,7 @@
 
     3个文件均放在github中，任意文件的变更触发Jenknis的Pipeline.
 
-这次的作业在AWS的环境中完成，具体如下：
+2.这次的作业在AWS的环境中完成，具体如下：
 
     CodePipeline 支持的工具链：
         Source Code Repositories
